@@ -26,6 +26,7 @@
                 <li><a href="#">Formación</a></li>
                 <li><a href="#">Sobre Mi</a></li>
             </ul>
+
         </div>
         <div>
             <h3>Datos de interes</h3>
