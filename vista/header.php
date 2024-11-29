@@ -21,6 +21,11 @@
     </a>
 
     <!-- Botón hamburguesa -->
+    <div class="hamburguer">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
     <div class="menu-toggle" id="menu-toggle">
         <li><a href="#bienvenida">Inicio</a></li>
         <li><a href="#sobre-mi">Sobre mí</a></li>
